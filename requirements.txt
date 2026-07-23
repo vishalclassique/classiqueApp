@@ -5,7 +5,7 @@ pymongo
 python-dotenv
 python-multipart
 PyJWT
-pwdlib
+pwdlib[argon2]
 email-validator
 passlib[bcrypt]
 python-jose
